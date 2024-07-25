@@ -1,4 +1,4 @@
-module go_microservices_domain
+module github.com/zchelalo/go_microservices_domain
 
 go 1.22.5
 
